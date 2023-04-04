@@ -1,16 +1,24 @@
 ### Hi there, I'm Sahil 👋
 
-### I'm a self motivated Developer, Driver, Leader and Gamer!!
+### I'm a self motivated Developer, Driver, Leader and Gamer!! ✨✨
 -----
 - :hourglass: Currently upskilling on React Native and AWS
 - :eyes: Always looking for a problem to solve
 - :goal_net: Become technically proficient
 - :racing_car: Love cars and working out
 
-### Connect with me:
+### Connect with me: 
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br />
+<br />
 
+### Recent projects:
+
+[<img align="left" alt="Shorts" width="26px" src="https://user-images.githubusercontent.com/45349848/229659815-426d1aac-c2b3-4c8f-b906-bdc5ad6cc4a9.png" />][shorts]
+[<img align="left" alt="Rider" width="26px" src="https://user-images.githubusercontent.com/45349848/229659882-48728748-3d11-41a0-964f-0560b8205af4.png" />][hopinn-rider]
+[<img align="left" alt="Driver" width="26px" src="https://user-images.githubusercontent.com/45349848/229659882-48728748-3d11-41a0-964f-0560b8205af4.png" />][hopinn-driver]
+<br />
 <br />
 
 ### Languages and Tools:
@@ -35,7 +43,11 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/sahil-jaidka/
+[hopinn-rider]: https://github.com/sahiljaidka224/RIDER
+[hopinn-driver]: https://github.com/sahiljaidka224/driver
+[shorts]: https://github.com/sahiljaidka224/shorts
 [blank]: #
+
 
 <!--
 **sahiljaidka224/sahiljaidka224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
