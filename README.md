@@ -41,6 +41,9 @@
 
 <br />
 <br />
+<br />
+
+Thanks for reading 🎉🎉🎉
 
 [linkedin]: https://www.linkedin.com/in/sahil-jaidka/
 [hopinn-rider]: https://github.com/sahiljaidka224/RIDER
